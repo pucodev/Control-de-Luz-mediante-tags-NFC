@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Light NFC</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_paired_devices">Obtener dispositivos apareados</string>
+    <string name="close_nfc_tag">Acercar Tag NFC</string>
+    <string name="connecting">Conectando</string>
+</resources>
